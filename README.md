@@ -78,4 +78,4 @@ process menu:
     - An example of the output format is provided below.
 
 ## The Developers
-This Vending Machine program was built as a mini capstone project with two others (Bryan McClain and Elton Eze) during a 14 week coding bootcamp at [Tech Elevator](https://www.techelevator.com/aptitude-test-referred?mbsy_source=183cf48e-9fe1-484e-a967-fd43e3c4fb34&mbsy_exp=Mon%2C+01+Jul+2024+17%3A08%3A30+GMT&campaignid=36038&mbsy=3s6sdT).
+This Vending Machine program was built as a mini capstone project during a 14 week coding bootcamp at [Tech Elevator]
