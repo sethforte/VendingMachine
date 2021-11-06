@@ -78,4 +78,6 @@ process menu:
     - An example of the output format is provided below.
 
 ## The Developers
-This Vending Machine program was built as a mini capstone project during a 14 week coding bootcamp at [Tech Elevator]
+This Vending Machine program was built by mself as a mini capstone project during a 14 week coding bootcamp at [Tech Elevator]
+
+- Seth Forte
